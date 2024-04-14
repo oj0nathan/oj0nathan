@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oj0nathan
-- 👀 I’m interested in Quantitative Finance and Systematic Trading.
+- 👀 I’m interested in Quantitative Finance, Systematic Trading and Machine Learning.
 - 📫 How to reach me: jonathanhosa04@gmail.com
 - ⚡ Fun fact: I am a blog writter and fitness enthusiast 
 
