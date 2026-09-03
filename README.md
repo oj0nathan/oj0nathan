@@ -1,6 +1,6 @@
 # Hi there, I'm Jonathan 👋
 
-### Quantitative Finance |  Macroeconomics | Econometrics | Machine Learning | Data Science
+### Macro Research | Econometrics | Machine Learning | Data Science
 
 I explore the intersection of data, markets, and code. My projects focuses on building robust models, and applying statistical models to financial time-series.
 
